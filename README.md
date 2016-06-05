@@ -23,7 +23,7 @@ https://www.census.gov/quickfacts/table/PST045215/00
 $9.033 Trillion in total adjusted gross income, this includes capital gains
 http://taxfoundation.org/.../summary-latest-federal... 
 
-~60 Million Social Security Recipients who would not receive UBI 
+~60 Million Social Security Recipients UBI 
 https://www.ssa.gov/oact/progdata/icpGraph.html 
 
 ~$1 trillion in welfare that could be eliminated, this is the most controversial number as it includes state spending in addition to federal. Without the state it's at $688 Billion.
